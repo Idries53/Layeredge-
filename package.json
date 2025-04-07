@@ -1,0 +1,12 @@
+{
+  "name": "layeredge-okx-claimer",
+  "version": "1.0.0",
+  "description": "Automated LayerEdge claimer with Puppeteer & OKX integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^19.8.0"
+  }
+}
